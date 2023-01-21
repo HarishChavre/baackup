@@ -1,0 +1,35 @@
+.form{
+  max-width: 500px;
+  margin: 2rem auto;
+  border: 2px solid #e74c3c;
+  padding: 2rem;
+
+
+}
+input,textarea{
+  display: block;
+  width: 100%;
+  border: 2px solid #3afdcd;
+  font-size: 15px;
+  padding: 5px;
+}
+
+#send{
+   border: 0;
+   background-color: rgb(98, 238, 98);
+   margin-left: 190px;
+
+   width: auto;
+}
+
+body{
+  background-color: rgb(147, 212, 166);
+}
+
+
+.login{
+  margin-left: 190px;
+  font-size: medium;
+  font-style: italic;
+  color: rgb(196, 124, 124);
+}
